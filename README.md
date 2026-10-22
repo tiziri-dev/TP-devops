@@ -12,6 +12,3 @@ Ce dépôt contient les exercices du TP N°1 du module DevOps.
 - Maîtriser Git (commits, branches, merge, conflits)
 - Collaborer via GitHub (push, pull, PR)
 
-
-## Contributeur
-- Collègue : Tiziri (simulation)
